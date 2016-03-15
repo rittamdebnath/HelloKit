@@ -393,6 +393,16 @@ p {
   font-size: 22px;
   color: #333; }
 
+.btn {
+  border: 1px solid #0074D9;
+  border-radius: 2px; }
+
+.twit-follow {
+  transition: all 0.3s ease-in-out; }
+  .twit-follow:hover {
+    color: white;
+    background: #0074D9; }
+
 .typed-cursor {
   display: none;
   opacity: 1;
